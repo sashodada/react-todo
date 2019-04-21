@@ -1,9 +1,9 @@
 # react-todo
 Simple React/Redux/Webpack To-do app (initially implemented from the basic tutorial in Redux website)
 
-#Installation
+# Installation
 npm install
-#Compilation
+# Compilation
 npm run compile
-#Run
+# Run
 npm run start
